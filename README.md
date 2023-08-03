@@ -7,7 +7,8 @@ Identify which movies have to be kept in inventory based on revenue gain and loc
 Identify which are the high lifetime value customers and where they are located.
 Identify which are the countries where Rockbuster Stealth services are popular.
 # Data and Visual Presentation
-A relational database made up of 15 tables contatining data on film rentals, customers, actors, payments and more. Descriptions and Entity Relationship Diagram can be found in the Rockbuster Data Dictionary. Visual Presentation for this project can be found on Tableau Public [here](urhttps://public.tableau.com/app/profile/alejandro.guillen1040/viz/RockbusterStealthPresentation_16863031272530/Story1).
+A relational database made up of 15 tables contatining data on film rentals, customers, actors, payments and more. Descriptions and Entity Relationship Diagram can be found in the Rockbuster Data Dictionary. Visual Presentation for this project can be found on Tableau Public https://public.tableau.com/app/profile/alejandro.guillen1040/viz/RockbusterStealthPresentation_16863031272530/Story1.
+# Tools
 Language: PostgreSQL 
 Sofwares: pgAdmin 4, DbVisualizer, Tableau, Excel
 # Skills Demonstrated
